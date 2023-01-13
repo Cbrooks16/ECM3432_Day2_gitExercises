@@ -12,10 +12,10 @@ In your teams (as assigned for the coursework task):
 - Change your current working directory to the above directory/folder.
 
 - Create four files called:
-  + “*readme_\<JohnDoe\>.md*”, 
-  + “*\<JohnDoe\>_Requirements_1.txt*”, 
-  + “*\<JohnDoe\>_Requirements_2.txt*”, and 
-  + “*\<JohnDoe\>_design_proposals.doc*”
+  + *readme_\<JohnDoe\>.md*, 
+  + *\<JohnDoe\>_Requirements_1.txt*, 
+  + *\<JohnDoe\>_Requirements_2.txt*, and 
+  + *\<JohnDoe\>_design_proposals.doc*
   
 - Add all the files <ins>at once</ins> to the staging area and commit them with a comprehensible message.
 - Remove the file “*\<JohnDoe\>_Requirement_2.txt*” from your folder.
