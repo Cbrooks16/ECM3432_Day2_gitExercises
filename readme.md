@@ -8,7 +8,7 @@ In your teams (as assigned for the coursework task):
 - Change your current working directory to the cloned repository.
 - Check if any branches exist.
 - Create a branch for your team and name it as __Team\<ID\>__ (e.g., **TeamA**).
-- Create one folder per team member: __\<Name\>\_team\<ID\>__ (e.g., **JohnDoe_TeamA**)
+- Create one folder per team member: __\<Name\>\_Team\<ID\>__ (e.g., **JohnDoe_TeamA**)
 - Change your current working directory to the above directory/folder.
 
 - Create four files called:
