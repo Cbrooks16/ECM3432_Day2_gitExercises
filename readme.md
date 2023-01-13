@@ -17,7 +17,7 @@ In your teams (as assigned for the coursework task):
   + “*\<JohnDoe\>_Requirements_2.txt*”, and 
   + “*\<JohnDoe\>_design_proposals.doc*”
   
-- Add all the files at once to the staging area and commit them with a comprehensible message.
+- Add all the files <ins>at once</ins> to the staging area and commit them with a comprehensible message.
 - Remove the file “*\<JohnDoe\>_Requirement_2.txt*” from your folder.
 - Check the commit logs.
 - Create a pull request.
